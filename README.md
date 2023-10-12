@@ -1,5 +1,5 @@
 # Umudvar Khalisli
-# angular-task-login-registration
+# angular-technical-task
 
 Clone this repo on your local machine
 
